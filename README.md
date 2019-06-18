@@ -28,8 +28,8 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+ex. Lee Gahyun
+ex. [@LeeGahyun](https://github.com/Gahyunlee23/190618_Web1.git)
 
 ## Version History don't care for now.
 
