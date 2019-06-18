@@ -9,7 +9,7 @@ An in-depth paragraph about your project and overview of use.
 
 ### Dependencies
 
-Use CSS3 and HTML5 lastest features. Be sure to prefix any bleeding-edge rules, tags, etc(see caniuse for reference) Also using lastest ES6/next, you should probably think about including Bable for transipilation (or an NPM script)
+Use CSS3 and HTML5 lastest features. Be sure to prefix any bleeding-edge rules, tags, etc(see [caniuse] (https://caniuse.com/) for reference) Also using lastest ES6/next, you should probably think about including [Bable] (https://babeljs.io/) for transipilation (or an NPM script)
 
 ### Installing
 
