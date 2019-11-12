@@ -18,7 +18,7 @@ Use CSS3 and HTML5 lastest features. Be sure to prefix any bleeding-edge rules, 
 cd directory of your choice, clone, and hack away!
 
 ## Help
-
+git ch
 Any advise for common problems or issues.
 ```
 command to run if program contains helper info
